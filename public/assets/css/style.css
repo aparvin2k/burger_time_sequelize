@@ -1,0 +1,18 @@
+body {
+	background: url("../images/burger.jpeg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.jumbotron, .burgers {
+	opacity: 0.95;
+	background-color: #96b5e8;
+	font-family: 'Lobster Two', cursive;
+}
+
+button {
+	font-family: 'Julee', cursive;
+}
+
+li, label {
+	font-size: 150%;
+}
